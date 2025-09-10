@@ -1,1 +1,11 @@
 /* your code */
+.header{
+	color:white;
+	background-color:blue;
+}
+.even{
+	background-color:white;
+}
+.odd{
+	background-color:grey;
+}
